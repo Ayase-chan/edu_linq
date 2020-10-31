@@ -92,12 +92,11 @@ class BookGenericAPIView(GenericAPIView,
     def put(self, request, *args, **kwargs):
         return self.partial_update(request, *args, **kwargs)
 
+
 class BookGenericAPIViewV3(generics.ListAPIView):
     queryset = Book.objects.all()
     serializer_class = BookModelSerializerV3
     lookup_field = "id"
-
-
 
 
 class BookViewSetView(viewsets.GenericViewSet, mixins.ListModelMixin):
@@ -110,6 +109,5 @@ class BookViewSetView(viewsets.GenericViewSet, mixins.ListModelMixin):
         return Response("登录成功")
 
     def get_user_count(self, request, *args, **kwargs):
-        # 完成获取用户数量的逻辑
         print("查询成功")
         return self.list(request, *args, **kwargs)
