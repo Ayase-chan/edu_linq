@@ -1,0 +1,1284 @@
+INFO 2020-11-04 21:37:58,999 basehttp 124 "GET / HTTP/1.1" 200 16348
+WARNING 2020-11-04 21:37:59,143 base 93 Not Found: /favicon.ico
+WARNING 2020-11-04 21:37:59,147 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 1974
+INFO 2020-11-04 21:42:40,467 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 21:42:41,284 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 21:42:41,533 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 21:42:41,691 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 21:42:41,836 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 21:42:41,986 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 21:42:42,145 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 21:42:57,015 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 21:56:51,057 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 21:56:53,169 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 22:08:23,396 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 22:31:07,453 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 22:31:17,633 basehttp 124 "GET /admin HTTP/1.1" 301 0
+INFO 2020-11-04 22:31:17,646 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-11-04 22:31:17,749 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+INFO 2020-11-04 22:31:17,787 basehttp 124 "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+INFO 2020-11-04 22:31:17,788 basehttp 124 "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+INFO 2020-11-04 22:31:17,800 basehttp 124 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+INFO 2020-11-04 22:35:48,949 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+INFO 2020-11-04 22:36:04,330 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2020-11-04 22:36:04,388 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:36:04,432 basehttp 124 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2020-11-04 22:36:04,432 basehttp 124 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2020-11-04 22:36:04,446 basehttp 124 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2020-11-04 22:40:56,127 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:40:58,258 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:41:12,133 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:41:12,792 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:41:13,064 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:41:13,233 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:41:13,420 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:41:14,086 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2020-11-04 22:41:14,104 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:41:16,558 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:41:17,388 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:41:46,711 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 22:41:56,446 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:42:51,695 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:42:52,543 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:42:59,031 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 22:43:04,535 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2020-11-04 22:43:04,556 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:43:13,808 basehttp 124 "GET / HTTP/1.1" 200 16348
+INFO 2020-11-04 22:43:13,835 basehttp 124 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-11-04 22:43:13,899 basehttp 124 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+INFO 2020-11-04 22:43:13,913 basehttp 124 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+INFO 2020-11-04 22:43:13,918 basehttp 124 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+WARNING 2020-11-04 22:43:13,954 base 93 Not Found: /favicon.ico
+WARNING 2020-11-04 22:43:13,954 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 1974
+INFO 2020-11-04 22:43:19,922 basehttp 124 "GET /admin HTTP/1.1" 301 0
+INFO 2020-11-04 22:43:19,930 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-11-04 22:43:19,949 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+INFO 2020-11-04 22:43:19,969 basehttp 124 "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+INFO 2020-11-04 22:43:19,970 basehttp 124 "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+INFO 2020-11-04 22:43:19,970 basehttp 124 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+INFO 2020-11-04 22:43:24,128 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2014
+INFO 2020-11-04 22:43:28,922 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2020-11-04 22:43:28,940 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:43:28,954 basehttp 124 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2020-11-04 22:43:28,961 basehttp 124 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2020-11-04 22:43:28,962 basehttp 124 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2020-11-04 22:46:01,599 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+INFO 2020-11-04 22:46:02,361 basehttp 124 "GET /admin/ HTTP/1.1" 200 2982
+ERROR 2020-11-04 22:46:09,573 exception 118 Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 147, in get_app_config
+    return self.app_configs[app_label]
+KeyError: 'reversion'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 593, in get
+    return self.template_response('xadmin/views/dashboard.html', self.get_context())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 586, in get_context
+    context = super(Dashboard, self).get_context()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 410, in get_context
+    menus = copy.copy(self.get_nav_menu())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 373, in get_nav_menu
+    app_title = smart_text(apps.get_app_config(app_label).verbose_name)
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 154, in get_app_config
+    raise LookupError(message)
+LookupError: No installed app with label 'reversion'.
+ERROR 2020-11-04 22:46:09,676 basehttp 124 "GET /admin/ HTTP/1.1" 500 221165
+WARNING 2020-11-04 22:47:09,386 base 93 Not Found: /
+WARNING 2020-11-04 22:47:09,387 basehttp 124 "GET / HTTP/1.1" 404 1923
+WARNING 2020-11-04 22:47:20,496 base 93 Not Found: /
+WARNING 2020-11-04 22:47:20,496 basehttp 124 "GET / HTTP/1.1" 404 1923
+WARNING 2020-11-04 22:47:20,599 base 93 Not Found: /favicon.ico
+WARNING 2020-11-04 22:47:20,600 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 1974
+INFO 2020-11-04 22:47:26,291 basehttp 124 "GET /admin/ HTTP/1.1" 200 4366
+INFO 2020-11-04 22:47:26,319 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2020-11-04 22:47:26,342 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2020-11-04 22:47:26,349 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2020-11-04 22:47:26,354 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2020-11-04 22:47:26,355 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2020-11-04 22:47:26,364 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2020-11-04 22:47:26,380 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2020-11-04 22:47:26,383 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2020-11-04 22:47:26,384 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2020-11-04 22:47:26,389 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 4373
+INFO 2020-11-04 22:47:26,391 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2020-11-04 22:47:26,395 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2020-11-04 22:47:26,396 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2020-11-04 22:47:26,400 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2020-11-04 22:47:26,408 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2020-11-04 22:47:26,411 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2020-11-04 22:47:26,412 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2020-11-04 22:47:26,484 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2020-11-04 22:47:32,395 basehttp 124 "POST /admin/ HTTP/1.1" 200 4595
+INFO 2020-11-04 22:47:32,425 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 4373
+INFO 2020-11-04 22:47:38,059 basehttp 124 "POST /admin/ HTTP/1.1" 302 0
+ERROR 2020-11-04 22:47:38,072 exception 118 Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 147, in get_app_config
+    return self.app_configs[app_label]
+KeyError: 'reversion'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 593, in get
+    return self.template_response('xadmin/views/dashboard.html', self.get_context())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 586, in get_context
+    context = super(Dashboard, self).get_context()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 410, in get_context
+    menus = copy.copy(self.get_nav_menu())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 373, in get_nav_menu
+    app_title = smart_text(apps.get_app_config(app_label).verbose_name)
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 154, in get_app_config
+    raise LookupError(message)
+LookupError: No installed app with label 'reversion'.
+ERROR 2020-11-04 22:47:38,137 basehttp 124 "GET /admin/ HTTP/1.1" 500 221145
+ERROR 2020-11-04 22:49:02,199 exception 118 Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 147, in get_app_config
+    return self.app_configs[app_label]
+KeyError: 'reversion'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 593, in get
+    return self.template_response('xadmin/views/dashboard.html', self.get_context())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 586, in get_context
+    context = super(Dashboard, self).get_context()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 410, in get_context
+    menus = copy.copy(self.get_nav_menu())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 373, in get_nav_menu
+    app_title = smart_text(apps.get_app_config(app_label).verbose_name)
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 154, in get_app_config
+    raise LookupError(message)
+LookupError: No installed app with label 'reversion'.
+ERROR 2020-11-04 22:49:02,277 basehttp 124 "GET /admin/ HTTP/1.1" 500 221146
+ERROR 2020-11-04 22:49:57,016 exception 118 Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 147, in get_app_config
+    return self.app_configs[app_label]
+KeyError: 'reversion'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 593, in get
+    return self.template_response('xadmin/views/dashboard.html', self.get_context())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 586, in get_context
+    context = super(Dashboard, self).get_context()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 410, in get_context
+    menus = copy.copy(self.get_nav_menu())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 373, in get_nav_menu
+    app_title = smart_text(apps.get_app_config(app_label).verbose_name)
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 154, in get_app_config
+    raise LookupError(message)
+LookupError: No installed app with label 'reversion'.
+ERROR 2020-11-04 22:49:57,103 basehttp 124 "GET /admin/ HTTP/1.1" 500 220856
+ERROR 2020-11-04 22:50:14,225 exception 118 Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 147, in get_app_config
+    return self.app_configs[app_label]
+KeyError: 'reversion'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 593, in get
+    return self.template_response('xadmin/views/dashboard.html', self.get_context())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 586, in get_context
+    context = super(Dashboard, self).get_context()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 410, in get_context
+    menus = copy.copy(self.get_nav_menu())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 373, in get_nav_menu
+    app_title = smart_text(apps.get_app_config(app_label).verbose_name)
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 154, in get_app_config
+    raise LookupError(message)
+LookupError: No installed app with label 'reversion'.
+ERROR 2020-11-04 22:50:14,290 basehttp 124 "GET /admin/ HTTP/1.1" 500 220991
+ERROR 2020-11-04 22:52:30,261 exception 118 Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 147, in get_app_config
+    return self.app_configs[app_label]
+KeyError: 'reversion'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 593, in get
+    return self.template_response('xadmin/views/dashboard.html', self.get_context())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\dashboard.py", line 586, in get_context
+    context = super(Dashboard, self).get_context()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 410, in get_context
+    menus = copy.copy(self.get_nav_menu())
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 373, in get_nav_menu
+    app_title = smart_text(apps.get_app_config(app_label).verbose_name)
+  File "C:\Python36\lib\site-packages\django\apps\registry.py", line 154, in get_app_config
+    raise LookupError(message)
+LookupError: No installed app with label 'reversion'.
+ERROR 2020-11-04 22:52:30,337 basehttp 124 "GET /admin/ HTTP/1.1" 500 220991
+INFO 2020-11-04 22:54:31,885 basehttp 124 "GET /admin/ HTTP/1.1" 200 12742
+INFO 2020-11-04 22:54:31,909 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,921 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,924 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,925 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,926 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2020-11-04 22:54:31,930 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,931 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,933 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,936 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2020-11-04 22:54:31,942 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2020-11-04 22:54:31,943 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,946 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,947 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,947 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,952 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,958 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,961 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,962 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,968 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:31,972 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 22:54:32,041 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-11-04 22:54:43,571 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 22718
+INFO 2020-11-04 22:54:43,588 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2020-11-04 22:54:43,600 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2020-11-04 22:54:43,607 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2020-11-04 22:54:43,611 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 22:54:43,612 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2020-11-04 22:54:43,612 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2020-11-04 22:54:43,613 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2020-11-04 22:54:49,507 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 200 17759
+INFO 2020-11-04 22:54:49,521 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 200 3339
+INFO 2020-11-04 22:54:49,521 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 200 8309
+INFO 2020-11-04 22:54:49,521 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 200 15611
+INFO 2020-11-04 22:54:49,537 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 22:59:42,846 basehttp 124 "POST /admin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-11-04 22:59:42,917 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 200 18103
+INFO 2020-11-04 22:59:42,946 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,948 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,952 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,954 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,955 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,958 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,963 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,965 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,966 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,969 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,971 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,971 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,974 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,976 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,982 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,983 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,987 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,993 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,996 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,998 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:42,998 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 22:59:43,000 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-11-04 22:59:43,001 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:00:10,473 basehttp 124 "POST /admin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:00:10,552 basehttp 124 "GET /admin/home/banner/add/ HTTP/1.1" 200 18103
+INFO 2020-11-04 23:00:10,579 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:00:46,872 basehttp 124 "POST /admin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:00:46,942 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27925
+INFO 2020-11-04 23:00:46,976 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:00:46,979 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2020-11-04 23:00:46,981 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:00:46,984 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:00:46,985 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:00:46,987 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:00:50,418 basehttp 124 "GET /admin/home/banner/2/update/ HTTP/1.1" 200 18231
+WARNING 2020-11-04 23:00:50,442 base 93 Not Found: /media/banner/5.GIF
+WARNING 2020-11-04 23:00:50,442 basehttp 124 "GET /media/banner/5.GIF HTTP/1.1" 404 1995
+INFO 2020-11-04 23:00:50,446 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:01:10,765 basehttp 124 "POST /admin/home/banner/2/update/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:01:10,829 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27866
+INFO 2020-11-04 23:01:10,857 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:01:13,480 basehttp 124 "GET /admin/home/banner/3/update/ HTTP/1.1" 200 18248
+WARNING 2020-11-04 23:01:13,504 base 93 Not Found: /media/banner/IMG_0033.JPG
+WARNING 2020-11-04 23:01:13,505 basehttp 124 "GET /media/banner/IMG_0033.JPG HTTP/1.1" 404 2016
+INFO 2020-11-04 23:01:13,510 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:01:21,786 basehttp 124 "POST /admin/home/banner/3/update/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:01:21,849 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27867
+INFO 2020-11-04 23:01:21,878 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:01:23,564 basehttp 124 "GET /admin/home/banner/1/update/ HTTP/1.1" 200 18231
+WARNING 2020-11-04 23:01:23,590 base 93 Not Found: /media/banner/1.JPG
+WARNING 2020-11-04 23:01:23,591 basehttp 124 "GET /media/banner/1.JPG HTTP/1.1" 404 1995
+INFO 2020-11-04 23:01:23,596 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:01:30,638 basehttp 124 "POST /admin/home/banner/1/update/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:01:30,699 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27868
+INFO 2020-11-04 23:01:30,731 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:01:32,402 basehttp 124 "GET /admin/home/banner/3/update/ HTTP/1.1" 200 18272
+WARNING 2020-11-04 23:01:32,427 base 93 Not Found: /media/banner/IMG_0033_CEq6zy5.JPG
+WARNING 2020-11-04 23:01:32,428 basehttp 124 "GET /media/banner/IMG_0033_CEq6zy5.JPG HTTP/1.1" 404 2040
+INFO 2020-11-04 23:01:32,431 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:01:34,687 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27621
+INFO 2020-11-04 23:02:18,289 basehttp 124 "GET /admin/home/banner/1/update/ HTTP/1.1" 200 18255
+INFO 2020-11-04 23:02:18,315 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-04 23:02:18,323 base 93 Not Found: /media/banner/1_ZOKIxpJ.JPG
+WARNING 2020-11-04 23:02:18,324 basehttp 124 "GET /media/banner/1_ZOKIxpJ.JPG HTTP/1.1" 404 2019
+INFO 2020-11-04 23:02:52,116 basehttp 124 "POST /admin/home/banner/1/update/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:02:52,181 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27868
+INFO 2020-11-04 23:02:52,205 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,205 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,206 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,206 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,207 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,212 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,220 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,221 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,227 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,232 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,235 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,236 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:02:52,236 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,236 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,239 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,240 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,244 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,245 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:52,247 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:54,733 basehttp 124 "GET /admin/home/banner/1/update/ HTTP/1.1" 200 18239
+INFO 2020-11-04 23:02:54,753 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:54,763 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:02:54,764 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:54,770 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:02:54,772 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+WARNING 2020-11-04 23:02:54,774 base 93 Not Found: /media/banner/1.JPG
+WARNING 2020-11-04 23:02:54,776 basehttp 124 "GET /media/banner/1.JPG HTTP/1.1" 404 1995
+INFO 2020-11-04 23:03:03,246 basehttp 124 "POST /admin/home/banner/1/update/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:03:03,310 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27868
+INFO 2020-11-04 23:03:03,340 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:03:05,089 basehttp 124 "GET /admin/home/banner/3/update/ HTTP/1.1" 200 18272
+WARNING 2020-11-04 23:03:05,146 base 93 Not Found: /media/banner/IMG_0033_CEq6zy5.JPG
+WARNING 2020-11-04 23:03:05,147 basehttp 124 "GET /media/banner/IMG_0033_CEq6zy5.JPG HTTP/1.1" 404 2040
+INFO 2020-11-04 23:03:05,151 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:03:07,020 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27621
+INFO 2020-11-04 23:03:08,840 basehttp 124 "GET /admin/home/banner/2/update/ HTTP/1.1" 200 18255
+WARNING 2020-11-04 23:03:08,859 base 93 Not Found: /media/banner/5_Z3Zr9FY.GIF
+WARNING 2020-11-04 23:03:08,861 basehttp 124 "GET /media/banner/5_Z3Zr9FY.GIF HTTP/1.1" 404 2019
+INFO 2020-11-04 23:03:08,867 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:03:11,089 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27621
+INFO 2020-11-04 23:03:50,150 basehttp 124 "GET /admin/home/banner/3/update/ HTTP/1.1" 200 18272
+INFO 2020-11-04 23:03:50,176 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-04 23:03:50,183 base 93 Not Found: /media/banner/IMG_0033_CEq6zy5.JPG
+WARNING 2020-11-04 23:03:50,184 basehttp 124 "GET /media/banner/IMG_0033_CEq6zy5.JPG HTTP/1.1" 404 2040
+INFO 2020-11-04 23:04:02,910 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27621
+INFO 2020-11-04 23:04:04,069 basehttp 124 "GET /admin/home/banner/1/update/ HTTP/1.1" 200 18239
+WARNING 2020-11-04 23:04:04,094 base 93 Not Found: /media/banner/5.GIF
+WARNING 2020-11-04 23:04:04,094 basehttp 124 "GET /media/banner/5.GIF HTTP/1.1" 404 1995
+INFO 2020-11-04 23:04:04,101 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:04:32,581 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-04 23:04:32,594 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-theme.css HTTP/1.1" 200 19791
+INFO 2020-11-04 23:06:41,975 basehttp 124 "POST /admin/home/banner/1/update/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:06:42,303 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27867
+INFO 2020-11-04 23:06:42,330 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,337 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,338 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,341 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,343 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,345 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,349 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,352 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,354 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,356 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,358 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,362 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,364 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,365 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,367 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,374 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,376 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,385 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,387 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,388 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,388 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,391 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:42,392 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:06:43,781 basehttp 124 "GET /admin/home/banner/1/update/ HTTP/1.1" 200 18238
+INFO 2020-11-04 23:06:43,799 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:43,805 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:43,810 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:06:43,815 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:43,819 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:43,826 basehttp 124 "GET /media/banner/1.JPG HTTP/1.1" 200 575539
+INFO 2020-11-04 23:06:53,726 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27620
+INFO 2020-11-04 23:06:56,430 basehttp 124 "GET /admin/home/banner/1/update/ HTTP/1.1" 200 18238
+INFO 2020-11-04 23:06:56,452 basehttp 124 "GET /media/banner/1.JPG HTTP/1.1" 304 0
+INFO 2020-11-04 23:06:56,460 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:07:02,285 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27620
+INFO 2020-11-04 23:07:03,473 basehttp 124 "GET /admin/home/banner/2/update/ HTTP/1.1" 200 18254
+WARNING 2020-11-04 23:07:03,498 base 93 Not Found: /media/banner/5_Z3Zr9FY.GIF
+WARNING 2020-11-04 23:07:03,499 basehttp 124 "GET /media/banner/5_Z3Zr9FY.GIF HTTP/1.1" 404 1822
+INFO 2020-11-04 23:07:03,503 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:07:08,333 basehttp 124 "POST /admin/home/banner/2/update/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:07:08,397 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27867
+INFO 2020-11-04 23:07:08,423 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:07:10,492 basehttp 124 "GET /admin/home/banner/3/update/ HTTP/1.1" 200 18271
+WARNING 2020-11-04 23:07:10,514 base 93 Not Found: /media/banner/IMG_0033_CEq6zy5.JPG
+INFO 2020-11-04 23:07:10,517 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-04 23:07:10,517 basehttp 124 "GET /media/banner/IMG_0033_CEq6zy5.JPG HTTP/1.1" 404 1843
+INFO 2020-11-04 23:07:15,247 basehttp 124 "POST /admin/home/banner/3/update/ HTTP/1.1" 302 0
+INFO 2020-11-04 23:07:15,312 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27867
+INFO 2020-11-04 23:07:15,344 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:07:21,041 basehttp 124 "GET /admin/home/banner/2/update/ HTTP/1.1" 200 18238
+INFO 2020-11-04 23:07:21,072 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:07:21,074 basehttp 124 "GET /media/banner/5.GIF HTTP/1.1" 200 331029
+INFO 2020-11-04 23:07:23,323 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27620
+INFO 2020-11-04 23:07:24,431 basehttp 124 "GET /admin/home/banner/3/update/ HTTP/1.1" 200 18255
+INFO 2020-11-04 23:07:24,461 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-04 23:07:24,477 basehttp 124 "GET /media/banner/IMG_0033.JPG HTTP/1.1" 200 144839
+INFO 2020-11-04 23:07:25,370 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 27620
+INFO 2020-11-04 23:17:54,725 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 344
+INFO 2020-11-04 23:17:54,745 basehttp 124 "GET /media/banner/5.GIF HTTP/1.1" 200 331029
+INFO 2020-11-04 23:17:54,748 basehttp 124 "GET /media/banner/IMG_0033.JPG HTTP/1.1" 200 144839
+INFO 2020-11-04 23:17:54,752 basehttp 124 "GET /media/banner/1.JPG HTTP/1.1" 200 575539
+INFO 2020-11-05 08:23:38,453 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 344
+INFO 2020-11-05 08:23:38,475 basehttp 124 "GET /media/banner/IMG_0033.JPG HTTP/1.1" 304 0
+INFO 2020-11-05 08:23:38,480 basehttp 124 "GET /media/banner/5.GIF HTTP/1.1" 304 0
+INFO 2020-11-05 08:23:38,483 basehttp 124 "GET /media/banner/1.JPG HTTP/1.1" 304 0
+ERROR 2020-11-05 08:25:02,931 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:02,987 basehttp 124 "GET /admin/home/banner/2/update/ HTTP/1.1" 400 67090
+ERROR 2020-11-05 08:25:10,507 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:10,536 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 400 66871
+ERROR 2020-11-05 08:25:26,949 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:26,980 basehttp 124 "GET /admin/home/banner/3/update/ HTTP/1.1" 400 66961
+ERROR 2020-11-05 08:25:32,414 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:32,443 basehttp 124 "GET /admin HTTP/1.1" 400 66681
+ERROR 2020-11-05 08:25:34,714 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:34,741 basehttp 124 "GET /admin HTTP/1.1" 400 66816
+ERROR 2020-11-05 08:25:35,319 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:35,345 basehttp 124 "GET /admin HTTP/1.1" 400 66816
+ERROR 2020-11-05 08:25:35,778 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:35,806 basehttp 124 "GET /admin HTTP/1.1" 400 66816
+ERROR 2020-11-05 08:25:36,238 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:36,267 basehttp 124 "GET /admin HTTP/1.1" 400 66816
+ERROR 2020-11-05 08:25:36,758 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:36,785 basehttp 124 "GET /admin HTTP/1.1" 400 66816
+ERROR 2020-11-05 08:25:37,268 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:37,294 basehttp 124 "GET /admin HTTP/1.1" 400 66816
+ERROR 2020-11-05 08:25:37,819 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:37,843 basehttp 124 "GET /admin HTTP/1.1" 400 66816
+ERROR 2020-11-05 08:25:42,788 exception 74 Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-11-05 08:25:42,814 basehttp 124 "GET /admin HTTP/1.1" 400 66816
+INFO 2020-11-05 08:26:05,494 basehttp 124 "GET /admin HTTP/1.1" 301 0
+INFO 2020-11-05 08:26:07,317 basehttp 124 "GET /admin/ HTTP/1.1" 200 14325
+INFO 2020-11-05 08:26:07,346 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,349 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-theme.css HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,354 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,358 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,358 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,359 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,364 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,373 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,380 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,382 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,383 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:26:07,385 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,391 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,393 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,393 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,395 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,396 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,397 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,402 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,402 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:07,457 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:09,959 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 29204
+INFO 2020-11-05 08:26:09,983 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:09,990 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:09,992 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:09,997 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:26:09,998 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:09,998 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:10,004 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:10,005 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:11,677 basehttp 124 "GET /admin/home/banner/2/update/ HTTP/1.1" 200 19822
+INFO 2020-11-05 08:26:11,698 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:11,708 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:11,708 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:26:11,714 basehttp 124 "GET /media/banner/5.GIF HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:11,715 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 304 0
+INFO 2020-11-05 08:26:19,596 basehttp 124 "POST /admin/home/banner/2/update/ HTTP/1.1" 302 0
+INFO 2020-11-05 08:26:19,668 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 29451
+INFO 2020-11-05 08:26:19,695 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:26:21,204 basehttp 124 "GET /admin/home/banner/2/update/ HTTP/1.1" 200 19822
+INFO 2020-11-05 08:26:21,232 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:26:21,245 basehttp 124 "GET /media/banner/6.jpg HTTP/1.1" 200 1928709
+INFO 2020-11-05 08:26:23,445 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 29204
+INFO 2020-11-05 08:28:21,733 basehttp 124 "GET /admin/home/banner/3/update/ HTTP/1.1" 200 19839
+INFO 2020-11-05 08:28:21,760 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:28:21,769 basehttp 124 "GET /media/banner/IMG_0033.JPG HTTP/1.1" 304 0
+INFO 2020-11-05 08:28:27,545 basehttp 124 "POST /admin/home/banner/3/update/ HTTP/1.1" 302 0
+INFO 2020-11-05 08:28:27,651 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 29451
+INFO 2020-11-05 08:28:27,680 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:28:32,623 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 344
+INFO 2020-11-05 08:28:32,664 basehttp 124 "GET /media/banner/IMG_0067.PNG HTTP/1.1" 200 1971755
+INFO 2020-11-05 08:28:32,666 basehttp 124 "GET /media/banner/6.jpg HTTP/1.1" 200 1928709
+INFO 2020-11-05 08:30:14,374 basehttp 124 "GET /admin/home/banner/3/update/ HTTP/1.1" 200 19839
+INFO 2020-11-05 08:30:14,402 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:30:14,418 basehttp 124 "GET /media/banner/IMG_0067.PNG HTTP/1.1" 200 1971755
+INFO 2020-11-05 08:30:19,724 basehttp 124 "POST /admin/home/banner/3/update/ HTTP/1.1" 302 0
+INFO 2020-11-05 08:30:19,792 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 29451
+INFO 2020-11-05 08:30:19,824 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:30:24,683 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 08:30:24,697 basehttp 124 "GET /media/banner/6.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 08:30:24,724 basehttp 124 "GET /media/banner/nancy-hann--RNR-k7pMhI-unsplash.jpg HTTP/1.1" 200 1131674
+INFO 2020-11-05 08:39:24,165 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 29630
+INFO 2020-11-05 08:39:24,196 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+ERROR 2020-11-05 08:39:26,185 exception 118 Internal Server Error: /admin/home/navigator/
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Python36\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Python36\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Python36\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.ProgrammingError: (1146, "Table 'edu_shop.nav' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\utils\decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\utils\decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\list.py", line 401, in get
+    response = self.get_result_list()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\list.py", line 200, in get_result_list
+    return self.make_result_list()
+  File "C:\Python36\lib\site-packages\xadmin\views\list.py", line 177, in make_result_list
+    self.result_count = self.paginator.count
+  File "C:\Python36\lib\site-packages\django\utils\functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Python36\lib\site-packages\django\core\paginator.py", line 85, in count
+    return self.object_list.count()
+  File "C:\Python36\lib\site-packages\django\db\models\query.py", line 387, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Python36\lib\site-packages\django\db\models\sql\query.py", line 491, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Python36\lib\site-packages\django\db\models\sql\query.py", line 476, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Python36\lib\site-packages\django\db\models\sql\compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Python36\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Python36\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Python36\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'edu_shop.nav' doesn't exist")
+ERROR 2020-11-05 08:39:26,413 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 500 225523
+INFO 2020-11-05 08:39:34,004 basehttp 124 "GET /admin/home/banner/ HTTP/1.1" 200 29630
+ERROR 2020-11-05 08:39:36,530 exception 118 Internal Server Error: /admin/home/navigator/
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Python36\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Python36\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Python36\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.ProgrammingError: (1146, "Table 'edu_shop.nav' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\utils\decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\django\utils\decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\list.py", line 401, in get
+    response = self.get_result_list()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Python36\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Python36\lib\site-packages\xadmin\views\list.py", line 200, in get_result_list
+    return self.make_result_list()
+  File "C:\Python36\lib\site-packages\xadmin\views\list.py", line 177, in make_result_list
+    self.result_count = self.paginator.count
+  File "C:\Python36\lib\site-packages\django\utils\functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Python36\lib\site-packages\django\core\paginator.py", line 85, in count
+    return self.object_list.count()
+  File "C:\Python36\lib\site-packages\django\db\models\query.py", line 387, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Python36\lib\site-packages\django\db\models\sql\query.py", line 491, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "C:\Python36\lib\site-packages\django\db\models\sql\query.py", line 476, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Python36\lib\site-packages\django\db\models\sql\compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python36\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Python36\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Python36\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Python36\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'edu_shop.nav' doesn't exist")
+ERROR 2020-11-05 08:39:36,600 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 500 225524
+INFO 2020-11-05 08:40:03,277 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 24891
+INFO 2020-11-05 08:40:03,313 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:40:06,224 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 24891
+INFO 2020-11-05 08:40:06,247 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:40:07,971 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19134
+INFO 2020-11-05 08:40:08,006 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2020-11-05 08:40:08,006 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 08:40:08,009 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+INFO 2020-11-05 08:40:08,009 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+WARNING 2020-11-05 08:40:08,021 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 08:40:08,040 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2020-11-05 08:40:08,041 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2020-11-05 08:40:08,047 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+WARNING 2020-11-05 08:40:08,065 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 08:41:44,481 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 08:41:44,560 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19475
+WARNING 2020-11-05 08:41:44,591 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 08:41:44,596 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 08:41:44,624 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 08:42:44,703 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 08:42:44,785 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19480
+WARNING 2020-11-05 08:42:44,821 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 08:42:44,825 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 08:42:44,860 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 08:43:11,147 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 08:43:11,231 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19477
+WARNING 2020-11-05 08:43:11,268 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 08:43:11,273 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 08:43:11,299 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:04:10,509 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 29792
+INFO 2020-11-05 09:04:10,540 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 09:04:14,765 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19134
+WARNING 2020-11-05 09:04:14,793 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:04:14,799 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:04:14,832 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:04:57,655 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 09:04:57,724 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 30715
+INFO 2020-11-05 09:04:57,753 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 09:04:59,213 basehttp 124 "GET /admin/home/navigator/7/update/ HTTP/1.1" 200 19572
+WARNING 2020-11-05 09:04:59,239 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:04:59,244 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:04:59,274 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:05:00,965 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 30394
+INFO 2020-11-05 09:05:02,003 basehttp 124 "GET /admin/home/navigator/6/update/ HTTP/1.1" 200 19481
+WARNING 2020-11-05 09:05:02,031 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:05:02,033 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:05:02,063 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:05:03,173 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 30394
+INFO 2020-11-05 09:05:04,534 basehttp 124 "GET /admin/home/navigator/5/update/ HTTP/1.1" 200 19506
+WARNING 2020-11-05 09:05:04,553 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:05:05,900 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:05:05,929 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:05:08,063 basehttp 124 "POST /admin/home/navigator/5/update/ HTTP/1.1" 302 0
+INFO 2020-11-05 09:05:08,139 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 30640
+INFO 2020-11-05 09:05:08,164 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 09:05:09,681 basehttp 124 "GET /admin/home/navigator/4/update/ HTTP/1.1" 200 19471
+WARNING 2020-11-05 09:05:09,704 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:05:09,711 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:05:09,738 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:05:10,405 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 30394
+INFO 2020-11-05 09:05:19,595 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19134
+INFO 2020-11-05 09:05:19,630 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:05:19,636 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:06:03,435 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 09:06:03,508 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 31299
+INFO 2020-11-05 09:06:03,538 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 09:06:06,461 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19134
+WARNING 2020-11-05 09:06:06,485 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:06:06,570 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:06:06,609 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:06:08,477 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 30987
+INFO 2020-11-05 09:06:11,005 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19134
+WARNING 2020-11-05 09:06:11,030 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:06:11,035 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:06:11,065 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:07:40,841 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 09:07:40,913 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 31892
+INFO 2020-11-05 09:07:40,943 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 09:07:46,649 basehttp 124 "GET /admin/home/navigator/9/update/ HTTP/1.1" 200 19487
+WARNING 2020-11-05 09:07:46,678 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:07:46,682 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:07:46,709 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:07:49,367 basehttp 124 "POST /admin/home/navigator/9/update/ HTTP/1.1" 302 0
+INFO 2020-11-05 09:07:49,441 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 31829
+INFO 2020-11-05 09:07:49,467 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 09:07:57,723 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19134
+WARNING 2020-11-05 09:07:57,752 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:07:57,756 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:07:57,785 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:08:17,220 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 09:08:17,294 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 32488
+INFO 2020-11-05 09:08:17,327 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 09:08:22,301 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19134
+WARNING 2020-11-05 09:08:22,340 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:08:22,344 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:08:22,382 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:08:54,745 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 09:08:54,823 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19484
+WARNING 2020-11-05 09:08:54,853 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:08:54,858 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:08:54,884 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:09:19,223 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 09:09:19,300 basehttp 124 "GET /admin/home/navigator/add/ HTTP/1.1" 200 19484
+WARNING 2020-11-05 09:09:19,330 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:09:19,334 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:09:19,360 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_en-us.js HTTP/1.1" 404 1759
+INFO 2020-11-05 09:09:35,793 basehttp 124 "POST /admin/home/navigator/add/ HTTP/1.1" 302 0
+INFO 2020-11-05 09:09:35,878 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 34279
+INFO 2020-11-05 09:09:35,912 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+WARNING 2020-11-05 09:19:00,414 base 93 Not Found: /home/nav_top/
+WARNING 2020-11-05 09:19:00,414 basehttp 124 "GET /home/nav_top/ HTTP/1.1" 404 2438
+INFO 2020-11-05 09:19:12,694 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:20:47,661 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:20:47,671 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:20:47,681 basehttp 124 "GET /media/banner/nancy-hann--RNR-k7pMhI-unsplash.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:20:47,682 basehttp 124 "GET /media/banner/6.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:20:47,684 basehttp 124 "GET /media/banner/1.JPG HTTP/1.1" 304 0
+WARNING 2020-11-05 09:21:53,655 basehttp 124 "POST /home/navigator_top/ HTTP/1.1" 405 41
+INFO 2020-11-05 09:21:58,988 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 343
+ERROR 2020-11-05 09:22:30,295 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 500 32
+ERROR 2020-11-05 09:22:37,152 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 500 32
+ERROR 2020-11-05 09:22:38,035 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 500 32
+ERROR 2020-11-05 09:22:38,733 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 500 32
+INFO 2020-11-05 09:27:09,515 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:27:15,774 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:27:15,795 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:27:15,806 basehttp 124 "GET /media/banner/nancy-hann--RNR-k7pMhI-unsplash.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:27:15,806 basehttp 124 "GET /media/banner/6.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:28:42,209 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:28:42,218 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:29:48,364 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:29:51,362 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:29:51,374 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:30:48,093 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:33:59,840 basehttp 124 "GET /home/navigator_bot/ HTTP/1.1" 200 316
+INFO 2020-11-05 09:34:02,570 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:34:02,583 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:34:02,586 basehttp 124 "GET /home/navigator_bot/ HTTP/1.1" 200 316
+INFO 2020-11-05 09:34:02,594 basehttp 124 "GET /media/banner/nancy-hann--RNR-k7pMhI-unsplash.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:34:02,595 basehttp 124 "GET /media/banner/6.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:36:10,491 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:36:10,510 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:36:10,512 basehttp 124 "GET /home/navigator_bot/ HTTP/1.1" 200 316
+INFO 2020-11-05 09:38:05,138 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:38:05,148 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:38:05,150 basehttp 124 "GET /home/navigator_bot/ HTTP/1.1" 200 316
+INFO 2020-11-05 09:39:23,518 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:39:23,525 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:39:23,529 basehttp 124 "GET /home/navigator_bot/ HTTP/1.1" 200 316
+INFO 2020-11-05 09:40:21,079 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:47:21,838 basehttp 124 "GET /admin/home/navigator/ HTTP/1.1" 200 33966
+INFO 2020-11-05 09:47:21,869 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,888 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-theme.css HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,890 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,891 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,895 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,900 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,902 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,906 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,910 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,914 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+INFO 2020-11-05 09:47:21,914 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,917 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,919 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,922 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,925 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,928 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,929 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,933 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,935 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,939 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,941 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,945 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,945 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,948 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:21,974 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:43,126 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:47:43,127 basehttp 124 "GET /home/navigator_bot/ HTTP/1.1" 200 316
+INFO 2020-11-05 09:47:43,127 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:47:46,627 basehttp 124 "GET /media/banner/nancy-hann--RNR-k7pMhI-unsplash.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:47:46,630 basehttp 124 "GET /media/banner/6.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:57:00,263 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:57:00,273 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:57:00,275 basehttp 124 "GET /home/navigator_bot/ HTTP/1.1" 200 316
+INFO 2020-11-05 09:57:00,283 basehttp 124 "GET /media/banner/nancy-hann--RNR-k7pMhI-unsplash.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:57:00,284 basehttp 124 "GET /media/banner/6.jpg HTTP/1.1" 304 0
+INFO 2020-11-05 09:57:39,035 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:57:50,991 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:57:51,983 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:58:45,616 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 09:58:45,629 basehttp 124 "GET /home/banner/ HTTP/1.1" 200 367
+INFO 2020-11-05 09:58:45,632 basehttp 124 "GET /home/navigator_bot/ HTTP/1.1" 200 316
+INFO 2020-11-05 10:19:20,569 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:19:33,718 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:19:48,798 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:19:57,977 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:20:26,331 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:20:58,184 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:21:17,109 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:21:28,038 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+ERROR 2020-11-05 10:23:53,393 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 500 32
+INFO 2020-11-05 10:24:27,278 basehttp 124 "GET /home/navigator_top/ HTTP/1.1" 200 404
+INFO 2020-11-05 10:26:55,596 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:26:59,594 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:27:53,280 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:01,515 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:12,107 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:17,819 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:25,120 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:29,948 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:35,983 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:40,201 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:42,572 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:44,657 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:44,669 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-11-05 10:28:47,963 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:54,313 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:28:57,496 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:29:05,624 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:29:08,863 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:29:12,471 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:29:15,836 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:29:19,084 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:29:23,304 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:29:27,679 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:29:31,913 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
+INFO 2020-11-05 10:29:34,977 basehttp 124 "POST /admin/settings/user HTTP/1.1" 200 0
