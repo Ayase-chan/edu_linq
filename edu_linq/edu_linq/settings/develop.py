@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/2.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.0/ref/settings/
 """
-
+import datetime
 import os
 import sys
 
@@ -44,7 +44,12 @@ INSTALLED_APPS = [
     'corsheaders',
     'xadmin',
     'crispy_forms',
-    'reversion'
+    'reversion',
+    'user',
+    'course',
+    'rest_framework',
+    'cart',
+    'order',
 
 ]
 
@@ -115,15 +120,15 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'zh-hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
+USE_TZ = False
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
@@ -136,7 +141,23 @@ MEDIA_URL = '/media/'
 REST_FRAMEWORK = {
     # DRF配置的全局异常处理的方法
     'EXCEPTION_HANDLER': 'edu_linq.utils.exceptions.exception_handler',
+    # 添加认证方式
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+            'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+            'rest_framework.authentication.SessionAuthentication',
+            'rest_framework.authentication.BasicAuthentication',
+        ],
 }
+
+# JWT配置
+JWT_AUTH = {
+    # token有效期时间
+    'JWT_EXPIRATION_DELTA': datetime.timedelta(seconds=30000),
+    # 自定义jwt返回值
+    'JWT_RESPONSE_PAYLOAD_HANDLER':
+        'user.utils.jwt_response_payload_handler',
+}
+
 # 日志配置
 LOGGING = {
     # 日志版本
@@ -190,3 +211,44 @@ LOGGING = {
 
 # 允许跨域请求
 CORS_ORIGIN_ALLOW_ALL = True
+
+# 指定自定义用户模型
+AUTH_USER_MODEL = 'user.UserInfo'
+
+# 指定多条件登陆的类
+AUTHENTICATION_BACKENDS = [
+    "user.utils.UserAuthBackend",
+]
+
+# redis相关配置
+CACHES = {
+    # 默认配置
+    "default": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        # 连接的redis的库
+        "LOCATION": "redis://127.0.0.1:6379/1",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+    # 短信
+    "sms_code": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        # 连接的redis的库
+        "LOCATION": "redis://127.0.0.1:6379/2",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+    # 购物车
+    "cart": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        # 连接的redis的库
+        "LOCATION": "redis://127.0.0.1:6379/3",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+}
+
+

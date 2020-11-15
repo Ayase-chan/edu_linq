@@ -35,3 +35,6 @@ class NavigatorInfo(object):
 
 
 xadmin.site.register(Navigator, NavigatorInfo)
+
+
+
