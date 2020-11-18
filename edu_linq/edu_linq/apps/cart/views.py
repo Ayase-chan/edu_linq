@@ -14,6 +14,16 @@ class CartViewSet(ViewSet):
     # 只有登录成功的用户才可以访问此接口
     permission_classes = [IsAuthenticated]
 
+    def get_cart_count(self, request):
+        redis_connection = get_redis_connection("cart")
+        user_id = request.user.id
+        course_len = redis_connection.hlen("cart_%s" % user_id)
+        print(course_len)
+        return Response({
+            "message": '获取成功',
+            "cart_count": course_len
+        })
+
     def add_cart(self, request):
         """
         将用户在前端提交的信息保存至购物车

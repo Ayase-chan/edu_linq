@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'cart',
     'order',
+    'payments',
 
 ]
 
@@ -251,4 +252,19 @@ CACHES = {
     },
 }
 
+# 支付宝配置信息
+ALIAPY_CONFIG = {
+    # "gateway_url": "https://openapi.alipay.com/gateway.do?", # 真实支付宝网关地址
+    "gateway_url": "https://openapi.alipaydev.com/gateway.do?",  # 沙箱支付宝网关地址
+    "appid": "2016110200785717",
+    "app_notify_url": None,
+    # 开发者app私钥
+    "app_private_key_path": open(os.path.join(BASE_DIR, "apps/payments/keys/app_private_key.pem")).read(),
+    # 支付宝公钥
+    "alipay_public_key_path": open(os.path.join(BASE_DIR, "apps/payments/keys/alipay_public_key.pem")).read(),
+    "sign_type": "RSA2",
+    "debug": False,
+    "return_url": "http://127.0.0.1:8080/payments/result",  # 同步回调地址
+    "notify_url": "http://baizhixiangmu.com:8000/payments/result/",  # 异步结果通知
+}
 

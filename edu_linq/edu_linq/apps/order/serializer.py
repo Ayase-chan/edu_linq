@@ -26,7 +26,7 @@ class OrderModelSerializer(ModelSerializer):
         try:
             Order.pay_choices[pay_type]
         except Order.DoesNotExist:
-            raise serializers.ValidationError("您当前选择的支付方式不允许~")
+            raise serializers.ValidationError("您当前选择的支付方式不被允许")
 
         return attrs
 
@@ -41,7 +41,8 @@ class OrderModelSerializer(ModelSerializer):
 
         # 获取到当前登录的用户对象
         user_id = self.context['request'].user.id
-        user_id = 1
+        # user_id = 1
+        print(user_id, '用户id')
         incr = redis_connection.incr("number")
 
         # TODO 2. 生成唯一的订单号  时间戳  用户ID  随机字符串
@@ -94,8 +95,12 @@ class OrderModelSerializer(ModelSerializer):
                     # 获取有效期对应的原价
                     origin_price = course_expire.price
                     expire_text = course_expire.expire_text
+                    # 如果是有效期  需要传递id
+                    final_price = course.real_expire_price(expire_id=expire_id)
+                else:
+                    final_price = course.real_price()
 
-                final_price = course.real_price()  # 如果是有效期  需要传递id
+
 
                 try:
                     OrderDetail.objects.create(
@@ -114,7 +119,14 @@ class OrderModelSerializer(ModelSerializer):
                 order.real_price += float(final_price)
 
             order.save()
+            # print(order.save())
 
-                # TODO 5. 如果商品已经成功生成了订单  需要将该商品从购物车中移除
+            # TODO 5. 如果商品已经成功生成了订单  需要将该商品从购物车中移除
+            for course_id_b, expire_id_b in cart_list.items():
+                course_id = int(course_id_b)
+                expire_id = int(expire_id_b)
+                if course_id_b in select_list:
+                    redis_connection.hdel("cart_%s" % user_id, course_id)
+
 
         return order

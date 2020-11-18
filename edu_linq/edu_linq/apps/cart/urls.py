@@ -10,5 +10,8 @@ urlpatterns = [
         'delete': 'del_item',
         'patch': 'change_expire',
     })),
-    path("order/", views.CartViewSet.as_view({"get": "get_select_course"})),
+    path("order/", views.CartViewSet.as_view({
+        "get": "get_select_course",
+        "post": "get_cart_count"
+    })),
 ]
